@@ -1,0 +1,167 @@
+﻿@page "/"
+@inject IMessageService _message
+<Modal Visible="@_visible"
+       OnOk="HandleOk"
+       OnCancel="GameOver">
+    <div style="display:flex;flex-direction:column;align-items: center;">
+        <div style="font-size:28px;font-weight:700;margin-bottom:30px;">How many Players?</div>
+        <AntDesign.InputNumber Min="1" Max="10" @bind-Value="@playerNum" TValue="int" Style="width:200px;" />
+    </div>
+</Modal>
+<div style="display:flex;flex-direction:column;background:rgb(185,224,167);height: 100vh;align-items: center;padding: 10vh;overflow:auto;">
+    @if (gameStatus == 0)
+    {
+        <div style="font-size:48px;font-weight:700;margin-bottom:30px;">Race to 21</div>
+        <div style="font-size:40px;font-weight:700;margin-bottom:40px;">Welcome</div>
+        <Button Type="@ButtonType.Primary" OnClick="()=>{gameStatus = 1;_visible = true;}" Style="background:rgb(217,232,251);font-size:28px;font-weight:700;height: fit-content;margin-bottom:30px;color:#000">START</Button>
+        <Button Danger Type="@ButtonType.Primary" Style="background:rgb(246,204,206);font-size:28px;font-weight:700;height: fit-content;color:#000">QUIT</Button>
+    }
+    else
+    {
+        <div style="@_startGameVisible">
+            @foreach (var item in Players)
+            {
+                <div style="font-size:28px;font-weight:700;">@($"What is the name of Player #{item.PlayerId}?")</div>
+                <Input Placeholder="@($"input Player #{item.PlayerId} name")" @bind-Value="item.PlayerName" Style="width:200px;margin-bottom:30px;" />
+                <div style="font-size:28px;font-weight:700;">@($"What is the agreed upon rounds of Player #{item.PlayerId}?")</div>
+                <AntDesign.InputNumber Min="1" Max="10" @bind-Value="@item.WantRound" TValue="int" Style="width:200px;margin-bottom:30px;" />
+            }
+            <div style="display:flex;">
+                <Button OnClick="StartGame" Style="background:rgb(217,232,251);font-size:28px;font-weight:700;height: fit-content;margin-bottom:30px;color:#000">Start Game</Button>
+            </div>
+        </div>
+    }
+
+    @*When game start*@
+    @if (_startGameVisible == "display:none;")
+    {
+        <div style="display: flex;flex-direction: column;align-items: center;">
+            <div style="font-size:48px;font-weight:700;color:wheat;">
+                @tips
+            </div>
+            @if (tips == string.Empty)
+            {
+                <h3 style="color:#000;">@($"Max Round:{maxRound}")</h3>
+                <h3 style="color:#000;">@($"Current Round:{currentRound}")</h3>
+            }
+            @if (isDeal == 0)
+            {
+                <Button Danger Type="@ButtonType.Primary" Style="background:rgb(255,102,102);font-size:28px;font-weight:700;height: fit-content;color:#000" OnClick="InquireDeal" Disabled="@(giveCard == false)">Table</Button>
+            }
+            else if (isDeal == 1)
+            {
+                <Button Danger Type="@ButtonType.Primary" Style="background:rgb(255,102,102);font-size:28px;font-weight:700;height: fit-content;color:#000" OnClick="NextDeal">Table</Button>
+            }
+            else if (isDeal == 2)
+            {
+                <Button Danger Type="@ButtonType.Primary" Style="background:rgb(255,102,102);font-size:28px;font-weight:700;height: fit-content;color:#000" OnClick="NextRoundClick">Continue</Button>
+            }
+            else if (isDeal == 3)
+            {
+                <Button OnClick="GetResult" Danger Type="@ButtonType.Primary" Style="background:rgb(255,242,205);font-size:28px;font-weight:700;height: fit-content;color:#000;">Game End</Button>
+            }
+            else if (isDeal == 4)
+            {
+                <Button OnClick="NewGame" Style="background:rgb(217,232,251);font-size:28px;font-weight:700;height: fit-content;margin-bottom:30px;color:#000">New Game</Button>
+            }
+
+        </div>
+        @if (tips == string.Empty)
+        {
+            <div style="display: flex;">
+                @foreach (var item in Players)
+                {
+                    <div style="display:flex;justify-content:space-between;margin-bottom:10px;margin:0 8px;@item.OutStyle">
+                        <div style="color:#000;display:flex;align-items:center;flex-direction:column;">
+                            <div style="font-size:16px;font-weight:bold;">
+                                @($"{item.PlayerScore}/21")
+                                @(item.PlayerScore > 21 ? "(bust)" : "")
+                            </div>
+                            <div style="font-size:28px;font-weight:700;">@item.PlayerName</div>
+                            <div style="display:flex;">
+                                @if (item.HandCards != null)
+                                {
+                                    foreach (var i in item.HandCards)
+                                    {
+                                        var imgurl = $"images/card_{i.CardSuit}_{i.ShortCardName}.png";
+                                        <div style="display:flex;flex-direction:column;align-items:center;">
+                                            <div style="margin-right:5px;">
+                                                <img src="@imgurl" />
+                                            </div>
+                                            <div style="font-size:16px;font-weight:bold;margin-right:8px;text-align:center">@($"{i.CardSuit}of")</div>
+                                            <div style="font-size:16px;font-weight:bold;margin-right:8px;text-align:center">@($"{i.LongCardName}")</div>
+                                        </div>
+                                    }
+                                }
+                            </div>
+                            <div style="font-size:16px;font-weight:bold;margin:8px 0;">@($"Victory Number:{item.WinNumber}")</div>
+
+                            @if (!isGoOn && item.IsNextPlay != true)
+                            {
+                                <Button OnClick="() => {item.IsNextPlay = true;item.PlayerStatus = PlayerStatus.active;giveCard = true;}"
+                        Style="background:rgb(153,255,255);font-size:18px;font-weight:700;height: fit-content;color:#000">
+                                    Continue Play
+                                </Button>
+                            }
+                            @if (item.PlayerScore > 21)
+                            {
+                                <Button Danger Type="@ButtonType.Primary" Style="background:rgb(255,102,102);font-size:28px;font-weight:700;height: fit-content;color:#000;"
+                        OnClick="@(()=>item.OutStyle="display:none;")">
+                                OUT
+                                </Button>
+                            }
+                        </div>
+                    </div>
+
+                }
+            </div>
+
+        }
+
+    }
+</div>
+
+<Modal Visible="@_dealVisible"
+       OnOk="@DealOk"
+       OnCancel="@DealCancel">
+    @if (preWinerName == string.Empty)
+    {
+        @foreach (var item in Players)
+        {
+            if (item.IsNextPlay == true)
+            {
+                if (item.PlayerStatus == PlayerStatus.active || item.PlayerStatus == PlayerStatus.stay)
+                {
+                    <div>
+                        @($"{item.PlayerName},do you want to card?")
+                        <RadioGroup @bind-Value="item.PlayerStatus">
+                            <Radio TValue="PlayerStatus" Value="PlayerStatus.active">Yes</Radio>
+                            <Radio TValue="PlayerStatus" Value="PlayerStatus.stay">No</Radio>
+                        </RadioGroup>
+                    </div>
+                }
+            }
+        }
+
+    }
+    else
+    {
+                    //ask the winner from last round at the beginning
+        @foreach (var item in Players.OrderByDescending(x => x.PlayerName == preWinerName))
+        {
+            if (item.IsNextPlay == true)
+            {
+                if (item.PlayerStatus == PlayerStatus.active || item.PlayerStatus == PlayerStatus.stay)
+                {
+                    <div>
+                        @($"{item.PlayerName},do you want to card?")
+                        <RadioGroup @bind-Value="item.PlayerStatus">
+                            <Radio TValue="PlayerStatus" Value="PlayerStatus.active">Yes</Radio>
+                            <Radio TValue="PlayerStatus" Value="PlayerStatus.stay">No</Radio>
+                        </RadioGroup>
+                    </div>
+                }
+            }
+        }
+    }
+</Modal>

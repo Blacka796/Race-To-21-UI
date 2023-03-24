@@ -1,0 +1,1269 @@
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/RaceTo21_Final.StaticWebAssets.xml
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/RaceTo21_Final.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/RaceTo21_Final.pdb
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/RaceTo21_Final.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/RaceTo21_Final.pdb
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/blazor.webassembly.js
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/AntDesign.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Options.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/OneOf.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipelines.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.CSharp.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Primitives.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Registry.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.AppContext.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Buffers.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Concurrent.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Immutable.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.NonGeneric.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Specialized.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Annotations.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.DataAnnotations.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Primitives.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.TypeConverter.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Configuration.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Console.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Core.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Data.Common.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Data.DataSetExtensions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Data.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Contracts.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Debug.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Process.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.StackTrace.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TextWriterTraceListener.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tools.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TraceSource.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tracing.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.Primitives.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Dynamic.Runtime.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Formats.Asn1.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Calendars.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Extensions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.Brotli.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.FileSystem.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.ZipFile.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.DriveInfo.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Primitives.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Watcher.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.IsolatedStorage.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.MemoryMappedFiles.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.AccessControl.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.UnmanagedMemoryStream.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Expressions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Parallel.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Queryable.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Memory.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.Json.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.HttpListener.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Mail.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.NameResolution.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.NetworkInformation.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Ping.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Primitives.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Requests.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Security.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.ServicePoint.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Sockets.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebClient.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebHeaderCollection.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebProxy.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.Client.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.Vectors.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ObjectModel.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.DataContractSerialization.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Uri.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.Linq.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.DispatchProxy.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.ILGeneration.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.Lightweight.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Extensions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Metadata.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Primitives.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.TypeExtensions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Reader.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Resources.ResourceManager.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Writer.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Extensions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Handles.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Intrinsics.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Loader.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Numerics.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Json.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Xml.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.AccessControl.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Claims.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Algorithms.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Csp.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Encoding.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Primitives.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.Windows.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.SecureString.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ServiceModel.Web.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ServiceProcess.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.CodePages.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.Extensions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encodings.Web.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Json.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.RegularExpressions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Channels.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Overlapped.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Extensions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Parallel.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Thread.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.ThreadPool.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Timer.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.Local.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ValueTuple.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Web.HttpUtility.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Web.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Windows.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Linq.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.ReaderWriter.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Serialization.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XDocument.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.XDocument.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlDocument.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlSerializer.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/WindowsBase.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/mscorlib.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/netstandard.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.CoreLib.dll.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/dotnet.timezones.blat.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/dotnet.wasm.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt.dat.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt_CJK.dat.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt_EFIGS.dat.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt_no_CJK.dat.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/dotnet.5.0.17.js.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/AntDesign.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Options.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/OneOf.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipelines.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.CSharp.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Primitives.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Registry.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.AppContext.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Buffers.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Concurrent.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Immutable.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.NonGeneric.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Specialized.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Annotations.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.DataAnnotations.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Primitives.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.TypeConverter.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Configuration.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Console.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Core.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Data.Common.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Data.DataSetExtensions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Data.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Contracts.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Debug.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Process.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.StackTrace.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TextWriterTraceListener.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tools.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TraceSource.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tracing.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.Primitives.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Dynamic.Runtime.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Formats.Asn1.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Calendars.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Extensions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.Brotli.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.FileSystem.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.ZipFile.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.DriveInfo.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Primitives.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Watcher.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.IsolatedStorage.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.MemoryMappedFiles.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.AccessControl.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.UnmanagedMemoryStream.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Expressions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Parallel.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Queryable.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Memory.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.Json.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.HttpListener.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Mail.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.NameResolution.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.NetworkInformation.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Ping.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Primitives.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Requests.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Security.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.ServicePoint.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Sockets.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebClient.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebHeaderCollection.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebProxy.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.Client.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.Vectors.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ObjectModel.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.DataContractSerialization.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Runtime.InteropServices.JavaScript.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Uri.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.Linq.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.DispatchProxy.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.ILGeneration.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.Lightweight.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Extensions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Metadata.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Primitives.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.TypeExtensions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Reader.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Resources.ResourceManager.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Writer.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Extensions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Handles.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Intrinsics.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Loader.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Numerics.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Json.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Xml.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.AccessControl.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Claims.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Algorithms.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Csp.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Encoding.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Primitives.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.Windows.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.SecureString.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ServiceModel.Web.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ServiceProcess.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.CodePages.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.Extensions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encodings.Web.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Json.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.RegularExpressions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Channels.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Overlapped.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Extensions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Parallel.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Thread.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.ThreadPool.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Timer.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.Local.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ValueTuple.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Web.HttpUtility.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Web.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Windows.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Linq.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.ReaderWriter.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Serialization.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XDocument.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.XDocument.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlDocument.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlSerializer.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/WindowsBase.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/mscorlib.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/netstandard.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.CoreLib.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/dotnet.timezones.blat
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/dotnet.wasm
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt.dat
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt_CJK.dat
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt_EFIGS.dat
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt_no_CJK.dat
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/dotnet.5.0.17.js
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.csproj.AssemblyReference.cache
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.AssemblyInfoInputs.cache
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.AssemblyInfo.cs
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.csproj.CoreCompileInputs.cache
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.RazorComponent.input.cache
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.RazorComponent.output.cache
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RazorDeclaration/RaceTo21_Final.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.TagHelpers.input.cache
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.TagHelpers.output.cache
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.RazorCoreGenerate.cache
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/Razor/App.razor.g.cs
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/t1qOKjbQ.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/hhq2kihO.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/GuJVZ02B.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/+9sySAJE.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/NU8FG2t0.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/X885Fbqu.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/kAtfcAm2.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/d6b1UnOX.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/23e7eUev.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/zRd1tcFN.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/z5kNHmdW.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/OuagzBTp.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/dGXh6GGU.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/cghKgBZT.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/7j4kwAbV.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/ehHsZtCH.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/PsyEuhyI.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/HiRmwJ3u.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/7QEL7GNc.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/50C2NceD.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/OwTgToXO.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/oQP69YRw.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Y68624ol.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/RQlZgHDG.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/pmeF+JLC.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/UY9Qgk+n.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/KgiWiPoe.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/JT+UE+QK.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/QrTDZpDy.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/2Ogxj9tT.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/bvh80nKy.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/hLFaZvKP.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/LCtgf2e0.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/t60i+nj5.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/u4ZagTWd.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/B+Fc5MW7.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/+jKG7JYm.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/SGvDRrcM.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/fU+C37+B.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/xiHFTq9Z.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/4NFaoRQd.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/z1KXS32a.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/L9L0Drjj.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/IFzV2rPy.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/EIoBz8Vi.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/M0WsZo2x.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/dc7WaxyC.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/7K4y6r5+.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/deHj9BDa.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/3sgcdsjH.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/rhPbKBLg.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/VqvqbMt+.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/vVgKQ7vA.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/C242jaA1.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/WnW6D4m7.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/OEPBkvGC.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/PX+rRFA1.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/jJRIp3t+.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Q4p0qxNA.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/XFpWxGhh.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/uW5PJshp.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/o0+1WgwX.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/s09+Mr0f.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/FBJu7+nH.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/wMssiaJ2.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/R4GDAosS.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/oL+17Pn3.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/iH2pqaUd.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/uDD2G1H9.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Pkzm+SGf.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/zTeA1x9Z.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/4iIhI43r.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/YiA4LJoq.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/pwNiRBr9.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/zzrPfncK.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/FBU8FIUN.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/LFtQxSel.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/a23vlGkT.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/2hpkW2mD.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/qMxbNAyG.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/s+PBRgo3.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/um0NPl4I.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Oya5irV2.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/XrdO3BeY.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/LZCUnM5h.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/gtRokx64.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/+FzkQoT4.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/wbhci1fZ.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/nRGRNWJc.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/YD9RJlhA.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/8k5idagv.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/GyhDLByZ.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/U83JQ23a.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/cDbPDgs3.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/zZaDhiff.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/JI0s3mMh.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/bkc8rdxm.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/51lLUGxG.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/IaMz5CST.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/gQY2Y42S.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/9raqB9gP.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/WnNPKcz5.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/92IjB2Zj.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/nNVVKsbT.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/JqBs006p.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/xUFZ36+o.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/S7qdtLgz.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/g+NvbBOX.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/h6vGMA6m.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/3V+JlS0I.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/hcXhs4+b.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/G8KFSwfG.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/3Ub8IYQj.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/c77UIvNs.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/eMNz+5oD.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/bQJSWz2M.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/HJIAzGrQ.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/u45NO1dn.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/o0Ok4lan.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/RPTP24BW.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Ot14xfdU.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/5B0X1Saf.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/jECVpAuf.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/E6TRPl6e.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/DMnoA+tm.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/XA+ApCpc.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/BNRjni+h.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/s1rkrsfJ.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/KKln0foH.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/CekEOvDq.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/r4w27zWU.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/2tP5mDfc.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/CgwU7CHo.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Wc3Ufi+R.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/85m+vy9n.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/TADS7Q+A.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/VTm8A+ph.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/GTWAO1+s.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/YqqwgXxk.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Cj8f56xF.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/1YncVaSu.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/gGHyYGY9.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/jEpDGjUZ.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/S+saRvJZ.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/KhkdvcpD.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/uJ6AfpZh.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/AiPsLO5j.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/7Ba9DaoY.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/HVpF2L84.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/+iy+rH98.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/dqg8Eonq.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/J0qMwRnG.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/AGQrCVP+.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Afycj4tv.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/8MpRqpvD.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/0FqpujF6.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/7B1VTc5q.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/hEJmh7cU.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/81h+WTnV.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Z4vX3mZn.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/6q0vQKpG.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Cykh1oGx.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/akyMn8LU.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/o2Oz+Da7.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/SwMdZjeQ.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/MClVCE75.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/HSmxXIDd.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/tf1WQ4D5.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/NprfdKsZ.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/TRx1z8db.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/UJDkbXCX.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/+HVtDE6D.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/tP8Cnb5T.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/JqevnFoy.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Nvt86+CJ.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/hJOg1mEs.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/ADbk3RXg.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/vlhqdv2V.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/T1+Yh71Z.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/RvtE8fdx.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/bAB0OGEN.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Q3VdbNYf.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/AXf6heOD.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/dV4MIm1t.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/HFVs95mB.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/U5qsYTYa.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/ngqbIq5Z.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/TmGJfcZa.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/pzEjKdTc.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/MhAL6tDN.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/KWE0i+z5.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/ZYflzbFQ.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/g7LbZe8P.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/EghV16bg.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/JqawRbuf.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/z3on6wok.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/XITVFFg4.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/EDMM7jW6.gz
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/scopedcss/bundle/RaceTo21_Final.styles.css
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/scopedcss/projectbundle/RaceTo21_Final.bundle.scp.css
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/staticwebassets/RaceTo21_Final.StaticWebAssets.Manifest.cache
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/staticwebassets/RaceTo21_Final.StaticWebAssets.Pack.cache
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/staticwebassets/msbuild.RaceTo21_Final.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/staticwebassets/msbuild.build.RaceTo21_Final.props
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.RaceTo21_Final.props
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.RaceTo21_Final.props
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/staticwebassets/RaceTo21_Final.StaticWebAssets.xml
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.RazorTargetAssemblyInfo.cache
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.csproj.CopyComplete
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/refint/RaceTo21_Final.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.pdb
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/ref/RaceTo21_Final.dll
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+C:/Users/Peipa/Desktop/coding/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/RaceTo21_Final.StaticWebAssets.xml
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/RaceTo21_Final.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/ref/RaceTo21_Final.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/RaceTo21_Final.pdb
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/RaceTo21_Final.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/RaceTo21_Final.pdb
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/blazor.webassembly.js
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/AntDesign.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Options.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/OneOf.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipelines.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.CSharp.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Primitives.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Registry.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.AppContext.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Buffers.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Concurrent.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Immutable.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.NonGeneric.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Specialized.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Annotations.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.DataAnnotations.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Primitives.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.TypeConverter.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Configuration.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Console.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Core.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Data.Common.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Data.DataSetExtensions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Data.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Contracts.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Debug.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Process.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.StackTrace.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TextWriterTraceListener.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tools.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TraceSource.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tracing.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.Primitives.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Dynamic.Runtime.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Formats.Asn1.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Calendars.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Extensions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.Brotli.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.FileSystem.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.ZipFile.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.DriveInfo.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Primitives.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Watcher.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.IsolatedStorage.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.MemoryMappedFiles.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.AccessControl.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.UnmanagedMemoryStream.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Expressions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Parallel.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Queryable.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Memory.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.Json.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.HttpListener.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Mail.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.NameResolution.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.NetworkInformation.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Ping.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Primitives.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Requests.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Security.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.ServicePoint.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Sockets.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebClient.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebHeaderCollection.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebProxy.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.Client.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.Vectors.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ObjectModel.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.DataContractSerialization.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Runtime.InteropServices.JavaScript.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Uri.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.Linq.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.DispatchProxy.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.ILGeneration.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.Lightweight.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Extensions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Metadata.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Primitives.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.TypeExtensions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Reader.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Resources.ResourceManager.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Writer.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Extensions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Handles.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.RuntimeInformation.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Intrinsics.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Loader.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Numerics.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Json.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Xml.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.AccessControl.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Claims.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Algorithms.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Csp.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Encoding.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Primitives.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.Windows.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.SecureString.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ServiceModel.Web.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ServiceProcess.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.CodePages.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.Extensions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encodings.Web.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Json.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.RegularExpressions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Channels.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Overlapped.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Extensions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Parallel.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Thread.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.ThreadPool.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Timer.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.Local.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ValueTuple.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Web.HttpUtility.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Web.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Windows.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Linq.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.ReaderWriter.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Serialization.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XDocument.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.XDocument.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlDocument.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlSerializer.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/WindowsBase.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/mscorlib.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/netstandard.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.CoreLib.dll.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/dotnet.timezones.blat.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/dotnet.wasm.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt.dat.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt_CJK.dat.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt_EFIGS.dat.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt_no_CJK.dat.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/dotnet.5.0.17.js.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/AntDesign.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Options.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/OneOf.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipelines.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.CSharp.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Primitives.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Registry.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.AppContext.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Buffers.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Concurrent.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Immutable.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.NonGeneric.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Specialized.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Collections.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Annotations.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.DataAnnotations.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Primitives.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.TypeConverter.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Configuration.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Console.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Core.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Data.Common.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Data.DataSetExtensions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Data.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Contracts.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Debug.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Process.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.StackTrace.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TextWriterTraceListener.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tools.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TraceSource.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tracing.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.Primitives.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Dynamic.Runtime.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Formats.Asn1.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Calendars.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Extensions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.Brotli.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.FileSystem.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.ZipFile.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.DriveInfo.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Primitives.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Watcher.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.IsolatedStorage.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.MemoryMappedFiles.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.AccessControl.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.UnmanagedMemoryStream.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.IO.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Expressions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Parallel.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Queryable.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Linq.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Memory.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.Json.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.HttpListener.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Mail.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.NameResolution.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.NetworkInformation.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Ping.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Primitives.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Requests.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Security.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.ServicePoint.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.Sockets.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebClient.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebHeaderCollection.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebProxy.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.Client.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Net.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.Vectors.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ObjectModel.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.DataContractSerialization.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Runtime.InteropServices.JavaScript.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Uri.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.Linq.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.DispatchProxy.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.ILGeneration.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.Lightweight.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Extensions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Metadata.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Primitives.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.TypeExtensions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Reader.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Resources.ResourceManager.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Writer.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Extensions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Handles.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Intrinsics.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Loader.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Numerics.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Json.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Xml.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.AccessControl.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Claims.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Algorithms.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Csp.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Encoding.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Primitives.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.Windows.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.SecureString.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Security.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ServiceModel.Web.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ServiceProcess.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.CodePages.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.Extensions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encodings.Web.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.Json.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Text.RegularExpressions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Channels.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Overlapped.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Extensions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Parallel.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Thread.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.ThreadPool.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Timer.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Threading.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.Local.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.ValueTuple.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Web.HttpUtility.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Web.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Windows.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Linq.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.ReaderWriter.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Serialization.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XDocument.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.XDocument.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlDocument.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlSerializer.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Xml.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/WindowsBase.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/mscorlib.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/netstandard.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/System.Private.CoreLib.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/dotnet.timezones.blat
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/dotnet.wasm
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt.dat
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt_CJK.dat
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt_EFIGS.dat
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/icudt_no_CJK.dat
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/bin/Debug/net5.0/wwwroot/_framework/dotnet.5.0.17.js
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.csproj.AssemblyReference.cache
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.AssemblyInfoInputs.cache
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.AssemblyInfo.cs
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.csproj.CoreCompileInputs.cache
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.MvcApplicationPartsAssemblyInfo.cache
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.RazorComponent.input.cache
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.RazorComponent.output.cache
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RazorDeclaration/RaceTo21_Final.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.TagHelpers.input.cache
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.TagHelpers.output.cache
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.RazorCoreGenerate.cache
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/NjmTeupp.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/1GDCetyb.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/6kc4miV2.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/R8NmGftF.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/xbs9eUni.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/lVjU3gBC.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/a+ZYHyOb.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/9g9CecRg.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/cynBKaXS.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/FaL0bNXL.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Grp1hULm.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/OGH3TmxT.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/zanDSgMb.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/cbmzkKXa.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/+GSs8BCo.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/IiZVfNGh.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/uD2Sld72.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/+Y4cLwIO.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/kM06htzG.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/9AeIW6FY.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/3W1QjHng.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/8EUum1PY.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/tFs72W9x.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/av+lshuh.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/U9vBZ2mR.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/qZe4A5zC.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/l0bo+kGu.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/V21ZPFtT.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/os+x2l3O.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/pfVfOSpr.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/inSSeC46.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/S+oxQsFG.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/bXtkpzSz.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/7u2yYHbi.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/KcFBEhy0.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/BPQLwT+Z.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/7EWOJyfP.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/+hXc9nko.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/KSvrXYoy.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/kQxuwJi0.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/t+UWQbR6.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/eW2uMeic.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/v0KhzZA6.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/nJoezSJt.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/r6+hqRXT.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Ob3d8wFX.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/rHU4Dllf.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/E2AbLaiZ.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/t8Sruxna.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/qzMDpp9B.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/qfu755QJ.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/i8LZC+DU.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/ErUm551u.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/ymAxu17v.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/wa+dCmcj.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/bzMframd.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/sy0ebOZD.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/junfySKS.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/6UhmYhRp.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/3k2hqbaQ.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/8N8VZ32c.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/qsHNqJKk.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Syn9F+L2.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/9FFqlsAX.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/ApTOGMuN.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/zYiQT7LV.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/LjpeXuap.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/B+cpJEwH.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/UuFiQswB.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/4ZuecYvt.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/FTR6phrZ.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/zCBAszHY.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/YSFn4RtC.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/vkNjg0wg.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/GINB3Pwc.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/DNLDsmnJ.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/PGdwYZ9B.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/J4iCTUKy.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/mkLdBb7r.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/6R1SlSGu.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/tKq3Yo4N.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/U4G3x9j0.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/CFOJseQg.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/PclK4ZHc.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/niTQLryC.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/DY2RL4zy.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Ar+ZfARt.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/TUHtJLo8.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/devzJ520.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/3235X48O.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/2g2wr9uh.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/xl7A1S4P.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/LkZAZLBG.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/0dRWYO+l.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/PMQwX5N9.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/viJslgeG.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Hj7SUxI4.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/046KvIO2.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/OSGbxhsn.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/A9nt52lb.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/ntK8+EAj.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/AQaNpZGl.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/ENQ4C+Bd.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/A0Xi2vw1.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/3q38C3Vg.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/4G5iqwXH.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/MqhEJw6B.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/gJ1eGd8F.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/xPOEcUr0.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/LmdShFGW.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/U3kJ72Ga.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/tfSZYbEK.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/R2dx5gk8.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Il7FOHL5.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/t4XAiaMW.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/lACKuoH8.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/fTEdil06.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/KUFetEvV.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/or0Jo4rq.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/m21zppm2.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Gmk+o7vW.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/McqAcfLQ.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/lktcxuNp.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/5l8YQKju.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/BkQF1JzS.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/4IYnHGqQ.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/S6hTemoR.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/b88n3il9.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/6lOC3Aeg.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/vufBiANP.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/vpaqPInb.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/CmzzwScS.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/h9ekQzHE.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Po8JG3Sg.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/0AEgNT0Q.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/4P+HO2MV.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Gt530JAA.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Eqgvgy+3.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/vDqnejlF.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/pMfpz4ha.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/QUp+D13s.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/WOVVG7DU.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/1YqKwUC4.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/8FsGyzrl.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/147FQsZ3.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/XpvTXsoe.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/NULhXaRq.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/l52uq0BF.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/dypVR1W1.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/HIMCeyZU.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/BN3PyRn+.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/+3wHoCt6.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/0L81dhcA.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/erJEkgyU.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/+9zehcUJ.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/qa89aMZu.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/0sdJpB9L.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/auLy31v+.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/ndKHvgcg.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/nH6deBUX.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/BNpw1CiF.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/QoLaRBuo.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/G0ntVDLg.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/5ARWbQEO.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/N1z9bh+R.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/q0bzjCi8.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/B+ltbRJc.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/6djkGhdD.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/qKDCwBJr.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Bui1ADno.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/aVQy4v1C.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/If5AmccP.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/weRnybPV.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/HutFtNeq.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/A4V8kmVi.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Z6+nzBvn.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/xWGT264+.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/+4UYfNHz.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/WB7E+5CQ.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/OD5+cGOA.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/K9MkjrDQ.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/nkd5aqoL.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/+iReai2D.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/MzKSUDtE.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/ny4Nb6xu.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/NkWp5ZyU.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/FtHvActD.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/o6pB3v+m.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/+DZEcOps.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/6xRPpbFn.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/q5u1gri+.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/OkF2lI0m.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/wVKtogd+.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/BxSis288.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/AfHgdftX.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/XrJWyjhp.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/Hk6wMEmc.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/build-gz/dm8+WAI4.gz
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/scopedcss/bundle/RaceTo21_Final.styles.css
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/scopedcss/projectbundle/RaceTo21_Final.bundle.scp.css
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/staticwebassets/RaceTo21_Final.StaticWebAssets.Manifest.cache
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/staticwebassets/RaceTo21_Final.StaticWebAssets.xml
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.RazorTargetAssemblyInfo.cache
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.csproj.CopyComplete
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/ref/RaceTo21_Final.dll
+/Users/david/Documents/DGM 6309 C#/RaceTo21_Final/RaceTo21_Final/RaceTo21_Final/obj/Debug/net5.0/RaceTo21_Final.pdb
